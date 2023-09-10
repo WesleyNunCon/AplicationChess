@@ -6,6 +6,7 @@ public class Chessmain {
 
 		System.out.println("Ola mundo");
 
+		System.out.println("test");
 	}
 
 }
